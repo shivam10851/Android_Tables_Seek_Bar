@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tableSeekBarListView</string>
+    <string name="headingTitle">Drag Seekbar to print table upto 20</string>
+
+</resources>
